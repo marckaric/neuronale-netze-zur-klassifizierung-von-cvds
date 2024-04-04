@@ -1,3 +1,5 @@
+# Neuronale Netze zur Klassifikation von kardiovaskulären Ereignissen 
+
 Im Rahmen eines verplichtenden Studienprojektes im Bachelorstudiengang Data Science, habe ich
 zu dem Thema Neuronale Netze recherchiert und untersucht, wie Neuronale Netze für die Analyse
 von Patientendaten am Beispiel einer speziellen Fragestellung für konkrete Daten aus der UK Biobank genutzt werden können. Das Ziel dieses Reports soll sein, die Ergebnisse und Erkenntnisse aus
